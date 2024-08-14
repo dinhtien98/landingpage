@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contain-header{
+    background: black;
+    border-radius: 5px 5px 0 0;
+}
+.contain-header img{
+    height: 32px;
+}
+.contain-header button{
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.navbar li a:active{
+    color: #2ed078;
+}
